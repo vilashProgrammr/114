@@ -29,6 +29,8 @@ function delete_id(id)
 	if(confirm('Sure to Delete ?'))
 	{
 		window.location.href='index.php?delete_id='+id;
+
+		//test rajesh
 	}
 }
 </script>
