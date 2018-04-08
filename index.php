@@ -30,6 +30,8 @@ function delete_id(id)
 	{
 		window.location.href='index.php?delete_id='+id;
 	}
+
+	//villie code.
 }
 </script>
 </head>
