@@ -19,7 +19,7 @@ if(isset($_GET['delete_id']))
 <script type="text/javascript">
 function edt_id(id)
 {
-	if(confirm('Sure to edit ?'))
+	if(confirm('Vilash take 4: Sure to edit ?'))
 	{
 		window.location.href='edit_data.php?edit_id='+id;
 	}
