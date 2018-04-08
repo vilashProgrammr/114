@@ -26,7 +26,7 @@ function edt_id(id)
 }
 function delete_id(id)
 {
-	if(confirm('Sure to Delete ?'))
+	if(confirm('Vilash take 3: Sure to Delete ?'))
 	{
 		window.location.href='index.php?delete_id='+id;
 	}
