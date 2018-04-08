@@ -5,6 +5,10 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//this is dj 
+	//SCREEN RECORDING AND VIDEO RECORDING TEST
+	//TIME TO FINISH TEST
+	
 	
 }
 // delete condition
