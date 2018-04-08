@@ -24,6 +24,7 @@ function edt_id(id)
 		window.location.href='edit_data.php?edit_id='+id;
 	}
 }
+//Vilash code.. video follows afterwards this.
 function delete_id(id)
 {
 	if(confirm('Sure to Delete ?'))
